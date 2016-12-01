@@ -1,12 +1,12 @@
 # DateRangePicker
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-DateRangePicker-green.svg?style=flat)](https://android-arsenal.com/details/1/2353)
+
 A Dialogo fragment with date pickers which can be used to select a time range.
 
 
 ### Including in your project
-Just add the following class to your project [DateRangePickerFragment](https://github.com/yesidlazaro/DateRangePicker/blob/master/app/src/main/java/com/lazaroyesid/daterangepicker/fragments/DateRangePickerFragment.java) 
+Just add the following class to your project [DateRangePickerFragment](https://github.com/MedAmineTazarki/DateRangePicker/blob/master/app/src/main/java/com/matdroid/daterangepicker/fragments/DateRangePickerFragment.java) 
 ### Description
-![alt tag](https://raw.githubusercontent.com/yesidlazaro/DateRangePicker/master/art/demo.png)
+![alt tag](https://github.com/MedAmineTazarki/DateRangePicker/blob/master/art/demo.png)
 # min SDK: 15
 
 #Based on
@@ -14,7 +14,7 @@ https://github.com/tittojose/TimeRangePicker
 ### License
 
 ```
-Copyright 2015 Yesid Lazaro (DateRangePicker)
+Copyright 2016 Med Amine Tazarki(DateRangePicker)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
